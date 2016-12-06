@@ -1,2 +1,2 @@
 # quiz-aggregate
-クイズ集計スクリプトforGAS
+クイズ集計スクリプトforGASです
